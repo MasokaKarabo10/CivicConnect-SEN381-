@@ -1,6 +1,5 @@
 # 2. Initial Project Risk Register (Wonderpark Estates)
 
-*Scoring Model: Likelihood (Low, Med, High), Impact (Low, Med, High), Priority (Low, Med, High, Critical)[cite: 8, 9].*
 *Scoring Model: Likelihood (Low, Med, High), Impact (Low, Med, High), Priority (Low, Med, High, Critical).*
 
 | Risk ID | Risk Description | Root Cause | Probability | Impact | Priority | Mitigation Strategy | Contingency Plan | Owner | Status |
