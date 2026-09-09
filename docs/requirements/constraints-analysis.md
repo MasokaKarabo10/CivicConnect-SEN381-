@@ -15,6 +15,7 @@
 ## 1.2 System Trade-Off Analysis
 
 * **Deliberate Scope Exclusion:** Wonderpark Estates' CivicConnect deployment deliberately excludes integrated levy/payment processing and multi-tenant estate management.
+
 * **Constraint Interaction:** *Schedule & Team Capacity Security Attack Surface & Verification Rigor*
 * **Defensible Engineering Rationale:** 
   > Both payment gateways and multi-tenant isolation materially expand the system's security surface (financial regulatory compliance, complex tenant-isolation bugs) and schedule risk beyond what three engineers can control, test, and defend within the SEN381 timeline. A smaller, fully controlled, and rigorously verified engineering baseline demonstrates significantly higher software engineering maturity than a bloated, defect-prone application.
